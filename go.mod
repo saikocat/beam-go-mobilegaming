@@ -1,4 +1,4 @@
-module mobilegaming
+module github.com/apache/beam/sdks/go/examples/complete/game
 
 go 1.12
 
